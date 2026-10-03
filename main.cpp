@@ -369,7 +369,7 @@ void administratorMenu() {
 }
 
 int main() {
-    std::cout << "LIBRARY MANAGEMENT SYSTEM\nBy: Chahat\n";
+    std::cout << "LIBRARY MANAGEMENT SYSTEM\nBy: Misbah\n";
     while (true) {
         std::cout << "\nMAIN MENU\n1. Book issue\n2. Book deposit\n"
                   << "3. Administrator menu\n4. Exit\n";
